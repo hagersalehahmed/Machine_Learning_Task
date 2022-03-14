@@ -8,6 +8,10 @@
 4. Applying deep learning (DL)
 5. Deployment script
 
+#Evaluating Models
+The models are evaluated using four methods: accuracy,
+precision , recall, and F-score foreach classes
+
 # Requirements
 You must have Scikit Learn, Keras, Pandas KerasTuner and Flask (for API) installed.
  
